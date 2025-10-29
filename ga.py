@@ -8,6 +8,7 @@ Original file is located at
 """
 
 import random
+import streamlit as st 
 
 #POP_SIZE: Number of Chromosomes in our list.
 POP_SIZE = 500
