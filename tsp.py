@@ -279,7 +279,7 @@ for i in range(0, n_population):
 index_minimum = np.argmin(total_dist_all_individuals)
 
 minimum_distance = min(total_dist_all_individuals)
-minimum_distance
+
 
 #shortest path
 # shortest_path = offspring_list[index_minimum]
